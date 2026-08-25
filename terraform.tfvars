@@ -3,7 +3,16 @@ resource_group = {
     name     = "rg-Mritunjay"
     location = "east asia"
   }
+ rg2 = {
+    name     = "rg-tuesday"
+    location = "east asia"
+  }
+  rg3 = {
+    name     = "rg-wednusday"
+    location = "east asia"
+  }
 }
+
 virtual_network = {
   vnet1 = {
     name                = "vnet-bhai"
